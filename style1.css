@@ -1,0 +1,712 @@
+
+@media only screen and (max-width: 690px) {
+	
+	.login-div{
+	}
+	.hide600{
+		display : none;
+	}
+	.imgdiv-card1{
+		right : 180px;
+		top :150px;
+		width : 140px;
+		height : 100px;
+		font-size : 10px;
+	}
+	.paddingtop50 {
+		padding-top : 50px;
+	}
+	.headtext{font-size : 32px;}
+	
+	.btnmorefont{
+		font-size : 16px;
+		width : 135px;
+		height : 45px;
+	}
+	
+	.imgdiv-card1{
+	width : 140px;
+	height : 100px;
+	}
+	
+	.imgdiv-card2{
+	width : 77px;
+	height : 88px;
+	}
+	.home-imgdiv{
+		width : 100%;
+		height : 310px;
+	}
+	
+	.img1{
+		position : absolute;
+		right: 45px;
+		width : 260px;
+		height : 310px;
+	}
+	.imgdiv-card2{
+		right :10px;
+		top :210px;
+		width : 77px;
+		height : 88px;
+		font-size : 10px;
+	}
+	.card-box{
+		width : 100%;
+		height : 210px;
+	}
+
+	.card-box-content{
+		width  :135px;
+		height : 54px;
+	}
+
+	.card-box-content h2{
+		font-size : 14px;
+	}
+
+	.card-box-content img{
+		width : 35px;
+		height : 35px;
+	}
+	.home-bgcolor{
+	background : linear-gradient(90deg, #F3FCF7 70%, #D4FFFF 30%);
+	border-radius : 10px;
+	}
+	
+	/*Page 2*/
+	
+	
+	
+	.scallabletext-div h3{
+		width : 60%;
+	}
+	.Srcollimg{
+		width  :124px;
+		height : 133px;
+		font-size : 16px;
+		
+	}
+	
+	/*Page 3*/
+	.btnsortby{
+		padding : 5px;
+	}
+	
+	.courses-div{
+	
+}
+.scroll-card{ 
+	padding : 5px;
+	width : 152px;
+	height : 209px;
+	
+}
+
+.scrollable-y-div{
+	justify-content : space-around;
+}
+
+.scroll-card img{
+	width : 152px;
+	height :103px;
+	
+}
+.cardHtext h3{
+	font-size : 14px;
+}
+.cardHtext p{
+	font-size : 13px;
+}
+.cardText h2{
+	font-size : 16px;
+}
+
+.benifits-page h2{
+	font-size : 16px;
+}
+
+
+.BbackImg{
+	width : 302px;
+	height : 373px;
+	margin : 20px;
+	
+}
+.Bcard{
+	width : 110px;
+	height  : 127px;
+	right : 10px;
+	bottom :60px;
+	
+}
+
+.Bcard img{
+	width : 35px;
+	height  : 35px;
+}
+
+
+.Blits{
+	margin : 20px;
+}
+
+.Blits p {
+	margin-left : 20px;
+}
+
+/*page 4*/
+.Rheadtext{
+	margin : 20px;
+	text-align : left;
+}
+
+
+.rcard{
+	width : 180px;
+	height : 150px;
+}
+.rcard p{
+	font-size : 14px;
+}
+
+
+/* Page 5*/
+.iconreviews h4{
+	font-size : 14px;
+}
+
+
+
+.icard{
+	width : 160px;
+	height : 140px;
+}
+
+.iiconreviews h4{
+	font-size : 14px;
+}
+
+.icard p{
+	font-size : 12px;
+}
+
+/*Page 6*/
+
+.GSpage{
+		width : 100%;
+	height : 472px;
+}
+.GSbutton{
+	height : 50px;
+	width : 143px;
+}
+
+.Callbutton{
+width : 143px;
+	height : 50px;
+}
+}
+
+@media only screen and (min-width: 690px) {
+	
+	.hide768{
+		display : none;
+	}
+	
+	.nav-logo{
+		justify-content : start;
+		gap : 40px;
+		padding-left : 20px;
+	}
+	
+	.login-div{
+		padding-right : 50px;
+		display : flex;
+		justify-content : center;
+		align-items :center;
+		gap : 20px;
+	}
+	.imgdiv-card1{
+		right : 180px;
+		top :150px;
+		width : 140px;
+		height : 100px;
+		font-size : 15px;
+	}
+	.container-homein{
+		padding : 30px;
+		display : flex;
+		justify-content : space-between;
+		align-items :center;
+	}
+	.home-bgcolor2{
+	background : linear-gradient(90deg, #F3FCF7 70%, #D4FFFF 30%);
+	border-radius : 10px;	
+	}
+	.home-bgcolor{
+	
+	}
+	.paddingtop50 {
+		padding-top : 0px;
+	}
+	.headtext{font-size : 42px;}
+	
+	.btnmorefont{
+		font-size : 16px;
+		width : 135px;
+		height : 45px;
+	}
+	
+	.imgdiv-card1{
+		width : 150px;
+		height : 110px;
+		font-size : 15px;
+	}
+	
+	.imgdiv-card2{
+		width : 87px;
+		height : 98px;
+	}
+	.home-imgdiv{
+		width : 100%;
+		height : 310px;
+	}
+	
+	.img1{
+		position : absolute;
+		right: 45px;
+		width : 260px;
+		height : 310px;
+	}
+	.imgdiv-card2{
+		right :10px;
+		top :180px;
+		width : 97px;
+		height : 98px;
+		font-size : 12px;
+	}
+	.card-box{
+		width : 100%;
+		height : 130px;
+		gap : 10px;
+	}
+
+	.card-box-content{
+		width  :185px;
+		height : 64px;
+	}
+
+	.card-box-content h2{
+		font-size : 16px;
+	}
+
+	.card-box-content img{
+		width : 55px;
+		height : 55px;
+	}
+	
+		/*Page 2*/
+	.scallabletext-div h3{
+		width : 50%;
+		font-size :24px;
+	}
+	.Srcollimg{
+		width  :424px;
+		height : 233px;
+		font-size : 16px;
+		
+	}
+	
+	/*Page 3*/
+	.btnsortby{
+		padding : 5px;
+	}
+	
+	
+
+.scroll-card{ 
+	padding : 5px;
+	width : 321px;
+	height : 305px;
+	
+}
+
+.scrollable-y-div{
+	justify-content : space-around;
+}
+
+.scroll-card img{
+	width : 321px;
+	height :165px;
+	
+}
+.cardHtext h3{
+	font-size : 23px;
+}
+.cardHtext p{
+	font-size : 20px;
+}
+.cardText h2{
+	font-size : 26px;
+}
+
+.benifits-page h2{
+	font-size : 25px;
+}
+
+.benifits-img{
+flex-direction : row;	
+justify-content : space-around;
+}
+
+.BbackImg{
+	width : 302px;
+	height : 373px;
+	margin : 20px;
+	
+}
+.Bcard{
+	width : 110px;
+	height  : 127px;
+	right : 10px;
+	bottom :60px;
+	
+}
+
+.Bcard img{
+	width : 35px;
+	height  : 35px;
+}
+
+.benifits-list{
+	margin-top : 40px;
+}
+
+.Blits{
+	
+	margin : 20px;
+}
+
+.Blits p {
+	margin-left : 20px;
+}
+
+/*page 4*/
+
+.review-flex{
+	display : flex;
+}
+
+.reviews-page{
+flex-direction : column;
+	width : 40%;
+	justify-content : center;
+	align-items : center;
+}
+.head-reviews{
+	flex-direction : column;
+	
+	
+}
+
+.nav-reviews{
+	margin-top : 20px;
+	width : 50%;
+}
+
+.head-reviews h2 {
+	margin : 0px;
+}
+.rcard{
+	width : 180px;
+	height : 150px;
+}
+.rcard p{
+	font-size : 14px;
+}
+.Rheadtext{
+	font-family : poppins;
+	font-weight : regular;
+	font-size : 30px;
+	text-align : center; 
+}
+
+/* Page 5*/
+.iconreviews h4{
+	font-size : 25px;
+}
+.icard{
+	width : 220px;
+	height : 200px;
+}
+.icard-img1{
+	width : 50px;
+	height : 50px;	
+}
+
+.iiconreviews h4{
+	font-size : 25px;
+}
+
+.icard p{
+	font-size : 18px;
+}
+
+/*Page 6*/
+
+.GSpage{
+		width : 100%;
+	height : 300px;
+}
+.GSbutton{
+	height : 50px;
+	width : 143px;
+}
+
+.Callbutton{
+width : 143px;
+	height : 50px;
+}
+.GSpage p{
+	font-size : 30px;
+}
+
+.GSpage h2{
+	font-size : 40px;
+}
+	.GSbutton{
+		font-size : 20px;
+	}
+	.Callbutton{
+		font-size : 20px;
+	}
+}
+
+@media only screen and (max-width: 992px) {
+	.Nnavdiv{display : none;}
+}
+
+@media only screen and (min-width: 992px) {
+	.hide992{
+		display : none;
+	}
+	.nav-logo{
+		justify-content : start;
+		gap : 40px;
+		padding-left : 20px;
+	}
+	
+	.navmenu ul {
+		list-style-type : none;
+		display : flex;
+		justify-content : center ; 
+		align-items  : center; 
+		gap :20px;
+	}
+	.container-nav{
+		justify-content : space-between;
+	}
+	.nav-logo{
+		width : 10%;
+	}
+	
+	.login-div{
+		padding-right : 50px;
+		display : flex;
+		justify-content : center;
+		align-items :center;
+		gap : 20px;
+	}
+	.imgdiv-card1{
+		right : 180px;
+		top :150px;
+		width : 140px;
+		height : 100px;
+		font-size : 15px;
+	}
+	.container-homein{
+		
+		padding : 70px;
+		padding-top : 50px;
+		display : flex;
+		justify-content : space-between;
+		align-items :center;
+	}
+	.home-bgcolor2{
+	background : linear-gradient(90deg, #F3FCF7 70%, #D4FFFF 30%);
+	border-radius : 10px;	
+	}
+	.home-bgcolor{
+	
+	}
+	.paddingtop50 {
+		padding-top : 0px;
+	}
+	.headtext{font-size : 52px;}
+	
+	.btnmorefont{
+		font-size : 19px;
+		width : 135px;
+		height : 45px;
+	}
+	
+	.imgdiv-card1{
+		right : 220px;
+		top :150px;
+		width : 170px;
+		height : 130px;
+		font-size : 17px;
+	}
+	
+	.imgdiv-card2{
+		width :97px;
+		height : 108px;
+	}
+	.home-imgdiv{
+		width : 100%;
+		height : 310px;
+	}
+	
+	.img1{
+		position : absolute;
+		right: 45px;
+		width : 290px;
+		height : 340px;
+	}
+	.imgdiv-card2{
+		right :10px;
+		top :180px;
+		width : 107px;
+		height : 108px;
+		font-size : 14px;
+	}
+	.card-box{
+		width : 100%;
+		height : 150px;
+		gap : 10px;
+	}
+
+	.card-box-content{
+		width  :205px;
+		height : 64px;
+	}
+
+	.card-box-content h2{
+		font-size : 19px;
+	}
+
+	.card-box-content img{
+		width : 55px;
+		height : 55px;
+	}
+	
+		/*Page 3*/
+	.btnsortby{
+		padding : 5px;
+	}
+	
+	.courses-div{
+	
+}
+.scroll-card{ 
+	padding : 5px;
+	width : 301px;
+	height : 305px;
+	
+}
+
+.scrollable-y-div{
+	justify-content : space-around;
+}
+
+.scroll-card img{
+	width : 301px;
+	height :165px;
+	
+}
+.cardHtext h3{
+	font-size : 23px;
+}
+.cardHtext p{
+	font-size : 25px;
+}
+.cardText h2{
+	font-size : 26px;
+}
+
+.benifits-page h2{
+	font-size : 30px;
+}
+
+.benifits-img{
+flex-direction : row;	
+justify-content : space-around;
+}
+
+.BbackImg{
+	width : 302px;
+	height : 373px;
+	margin : 20px;
+	
+}
+.Bcard{
+	width : 110px;
+	height  : 127px;
+	right : 10px;
+	bottom :60px;
+	
+}
+
+.Bcard img{
+	width : 35px;
+	height  : 35px;
+}
+
+.benifits-list{
+	margin-top : 40px;
+}
+
+.Blits{
+	
+	margin : 20px;
+}
+
+.Blits p {
+	margin-left : 20px;
+		font-size : 20px;
+}
+	
+}
+
+/*page 4*/
+
+
+
+
+.reviews-page{
+	font-size : 26px;
+}
+
+
+.iconreviews h4{
+	font-size : 18px;
+}
+
+
+.rcard{
+	width : 200px;
+	height : 170px;
+}
+
+.Rheadtext{
+	font-size : 50px;
+	
+}
+
+
+}
+
+@media only screen and (min-width: 1200px) {
+	
+}

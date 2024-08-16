@@ -1,0 +1,376 @@
+*{
+	padding : 0;
+	margin : 0;
+}
+
+.container-nav{
+	height : 10vh;
+	display : flex;
+	justify-content : space-between;
+	align-items :center;
+	box-sizing : border-box;
+	padding : 20px;
+}
+.flexdiv{
+	display : flex;
+	gap : 5px;
+}
+.nav-logo{
+	width : 50%;
+	display : flex;
+	justify-content : space-around;
+	align-items : center;
+}
+
+.navmenu ul {
+	font-family : poppins;
+	font-weight : regular;
+	font-size : 16px;
+}
+.registerbtn{
+	font-family : poppins;
+	font-weight : regular;
+	font-size : 16px;
+	width : 115px;
+	height : 45px;
+	background-color : #09B451;
+	color : #FFFFFF;
+	border-radius : 10px;
+}
+.container-home{
+	box-sizing : border-box;
+	padding : 20px;
+}
+
+
+.headtext{
+	font-family : poppins;
+	font-weight : bold;
+	
+}
+
+.btnmorefont{
+	margin-top : 20px;
+	font-family : poppins;
+	font-weight : regular;
+	
+	background-color : #09B451;
+	color : #FFFFFF;
+	border-radius : 10px;
+}
+
+.home-imgdiv{
+	position : relative;
+}
+
+
+
+.imgdiv-card1{
+position : absolute;
+	text-align : center;
+	display : flex;
+	justify-content : center;
+	align-items :center;
+	background-color : white;
+	border-radius : 10px;
+	box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+	box-sizing : border-box;
+	padding : 5px;
+	gap : 5px;
+}
+
+.imgdiv-card2{
+	position : absolute;
+	text-align : center;
+	background-color : white;
+	box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+	border-radius : 10px;
+	box-sizing : border-box;
+	padding : 5px;
+}
+
+.greenText{
+	color : #09B451;
+}
+
+.card-box{
+	display : flex;
+	flex-wrap : wrap;
+	justify-content : center;
+	gap : 20px;
+	align-items : center;
+	width : 100%;
+	
+}
+.card-box-content{
+	display : flex;	
+	justify-content : center;
+	gap : 5px;
+	align-items : center;
+}
+
+/*Page 2*/
+.scallable-div{
+		padding : 20px;
+}
+.scallabletext-div{
+	display : flex;
+	justify-content : space-between;
+	align-items :center;
+}
+	
+.scallableimg-div{
+	padding : 10px;
+	max-width : 90%;
+	display  :flex;
+	overflow: auto;
+  white-space: nowrap;
+  padding: 10px;
+  gap : 10px;
+}
+
+.Srcollimg{
+	border-radius : 10px;
+	display : flex;
+	justify-content : center;
+	align-items :center;
+	
+	object-fit : cover;
+}
+
+.Srcollimg h2{
+	font-family : poppins;
+	font-weight : regular;
+	color : white;
+	margin-left : 10px;
+	margin-right : 10px;
+	
+}
+
+/* Page 3 */
+
+.btnsortby{
+	margin-top : 15px;
+	font-family : poppins;
+	font-weight : regular;
+	background-color : #09B451;
+	color : #FFFFFF;
+	border-radius : 10px;
+}
+
+.courses-div{
+	padding : 20px;
+}
+
+.scrollable-y-div{
+	display : flex;
+	margin-top : 10px;
+	flex-wrap : wrap;
+	gap : 5px;
+}
+
+.scroll-card{ 
+	padding : 5px;
+	
+}
+.scroll-card img{
+	
+}
+
+.cardHtext{
+	display : flex;
+	justify-content : space-around
+}
+.cardHtext h3{
+	font-family : poppins;
+	font-weight : regular;
+}
+
+.cardText{
+	font-family : poppins;
+	font-weight : bold;
+}
+
+.benifits-page{
+	margin :20px;
+}
+
+.benifits-page h2{
+	font-family : poppins;
+	font-weight : regular;
+	
+}
+
+.benifits-img{
+	display : flex;
+	flex-direction: column;
+
+}
+
+.Bimgdiv{
+	position : relative;
+}
+
+.Bcard{
+	position : absolute;
+	background-color : white ;
+	display : flex;
+	justify-content : center;
+	flex-direction : column;
+	text-align : center;
+	box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+	border-radius : 20px;
+	align-items : center;
+}
+ 
+.BbackImg{
+	border-radius : 20px;
+	
+}
+
+.Blits{
+	display : flex;
+	justify-content : start;
+	align-items : center;
+}
+
+.Blits p {
+	font-family : poppins;
+	font-weight : regular;
+}
+
+/*Page 4*/
+
+.margin20px{
+	margin : 20px;
+}
+
+.reviews-page{
+	display : flex;
+}
+.head-reviews{
+	width : 60%;
+	display : flex;
+	justify-content : space-between;
+	flex-wrap : wrap;
+}
+.nav-reviews{
+	width : 40%;
+	height : 60px;
+}
+
+.marginleftRight{
+	margin-left : 5px;
+	margin-right : 5px;
+}
+
+.navbutns{
+	display : flex;
+	justify-content : space-around;
+
+}
+
+.signdiv{
+	 display : flex;
+	 justify-content :center;
+	 align-items : center;
+	width : 40px;
+	height : 40px;
+	border-radius : 50%;
+	border : 1px solid #09B451;
+}
+
+.reviews-card{
+	width : 60%;
+	display : flex;
+	justify-content : space-around;
+	align-items : center;
+}
+
+.rcard{
+	padding : 7px;
+	margin-top : 20px;
+	box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+	box-sizing : border-box;
+}
+
+.rcard p{
+	margin-top : 5px;
+}
+
+.rcard-img{
+	display : flex;
+	align-items : center;
+}
+
+.rcard-img img{
+	margin-right : 20px;
+}
+
+.instructor-cards{
+	display : flex; 
+	flex-wrap : wrap;
+	justify-content : space-around;
+	text-align : center;
+
+}
+
+.icard{
+	padding : 7px;
+	margin-top : 20px;
+	box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+	box-sizing : border-box;
+}
+
+.iiconreviews h4{
+	
+}
+
+.icard p{
+	font-size : 12px;
+}
+
+.GSpage{
+	background: linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8) ),
+	url('assets/img10.png');
+    background-repeat : no-repeat;
+	right : 0;
+	bottom : 0;
+
+	display : flex;
+	flex-direction : column;
+	flex-wrap : wrap;
+	justify-content : space-around;
+	align-items : center;
+	text-align : center;
+	color : white;
+	
+}
+
+.GSpage h2{
+	font-family : poppins;
+	font-weight : regular;
+	font-size : 27px;
+	width : 80%;
+}
+
+.GSpage p{
+	font-family : poppins;
+	font-weight : regular;
+	font-size : 19px;
+	width : 80%;
+}
+
+.GSbutton{
+	background-color : #09B451;
+	border-radius : 10px;
+	border : none;
+	color : white;
+}
+
+.Callbutton{
+	margin-left : 20px;
+	color :  #09B451;
+	border : none;
+	border-radius : 10px;
+}
